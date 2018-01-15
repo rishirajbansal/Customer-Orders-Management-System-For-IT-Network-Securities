@@ -1,0 +1,150 @@
+/* CSS Document */
+
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	background-color: #ffffff;
+}
+.style1 {
+	color: #666666;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	margin-right: 20px;
+	margin-left: 20px;
+	line-height: 22px;
+}
+.style2 {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #FFFFFF;
+	font-size: 12px;
+	line-height: 16px;
+}
+.style3 {
+    font-size: 18px;
+	font-family: Arial, Helvetica, sans-serif;
+    color: #92B5DF;
+	font-weight: bold;
+	margin-right: 20px;
+	margin-left: 20px;
+	}
+.style4 {
+	color: #666666;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+.style5 {
+	color: #666666; 
+	font-family: Arial, Helvetica, sans-serif; 
+	font-size: 24px; 
+	margin-right: 20px; 
+	margin-left: 20px; 
+	line-height: 30px; 
+}
+.style12 {
+	font-size: 10px;
+	color: #666666;
+	font-family: Arial, Helvetica, sans-serif;
+}
+a:link {
+	color: #666666;
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+	color: #666666;
+}
+a:hover {
+	text-decoration: underline;
+	color: #666666;
+}
+a:active {
+	text-decoration: none;
+	color: #666666;
+}
+.style100 {
+	color: #000000;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	margin-right: 20px;
+	margin-left: 20px;
+}
+.style101 {
+	color: #FFFFFF; 
+	font-family: Arial, Helvetica, sans-serif; 
+	font-size: 14px; 
+	margin-right: 
+	20px; margin-left: 20px; 
+}
+.style103 {
+	font-family: Arial, Helvetica, sans-serif; 
+	font-size: 18px; 
+	margin-right: 20px; 
+	margin-left: 20px; color: #FFFFFF;
+}
+.style104 {
+	font-size: 19px
+}
+.mainExpand {
+    cursor:hand;
+    cursor:pointer;
+	color: #666666;
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	margin-right: 20px;
+	margin-left: 20px;
+	line-height: 22px;
+	  }
+.WHITEbig {
+	color: #FFFFFF; 
+	font-weight: bold; 
+	font-size: 24px; 
+}
+.StyleMssg {
+	color: #666666;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	margin-right: 20px;
+	margin-left: 20px;
+	line-height: 22px;
+}
+.TOSfont {
+	color: #666666;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	margin-right: 20px;
+	margin-left: 20px;
+	line-height: 18px;
+}
+p.advisory {
+    width:300px;
+    font-weight:bold;
+    text-align:center;
+    background-color:#ffffff;
+    border:solid #aaa 1px;
+    color:#333;
+    margin-top:100px;
+    margin-left:auto;
+    margin-right:auto;
+    padding-top:10px;
+    padding-bottom:25px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.style13 {
+	font-size: 12px;
+	color: #666666;
+	font-family: Arial, Helvetica, sans-serif;
+	margin-left: 5px;
+	margin-right: 5px;
+}
+.Testimonials {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:14px;
+	color: #777777;
+	margin-left: 10px;
+	margin-right: 10px;
+	text-align:justify;
+	vertical-align:middle;
+	 
+}
