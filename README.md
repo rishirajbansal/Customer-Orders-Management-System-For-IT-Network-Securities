@@ -4,19 +4,20 @@ Web-based email validation service & Web Based Customer Orders Management System
 
 Major Functional areas : 
 
-Admin portal
-Email Notification management
-PayPal payment gateway integration
-PDF report Generation for transaction receipts
-Excel reports generation for validated emails
-FTP file processing
-Thorough Email Validations
-SEO Implementation
-Highly scalable to handle thousands of users
+1.	Admin portal
+2.	Email Notification management
+3.	PayPal payment gateway integration
+4.	PDF report Generation for transaction receipts
+5.	Excel reports generation for validated emails
+6.	FTP file processing
+7.	Thorough Email Validations
+8.	SEO Implementation
+9.	Highly scalable to handle thousands of users
+
 
 Major Focus Points : 
 
-> Google Analytics incorporated to track and analyze the usage of application 
-> Secure authentication system based on OAuth
-> Highly Scalable to handle large no. of users
-> MVC based architecture with loose coupling and high cohesion
+1. Google Analytics incorporated to track and analyze the usage of application .
+2. Secure authentication system based on OAuth
+3. Highly Scalable to handle large no. of users
+4. MVC based architecture with loose coupling and high cohesion
